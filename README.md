@@ -1,1 +1,1 @@
-# NPM-809K-Fundamentals-for-Artificial-Intelligence-and-Deep-Learning-Framework
+#Artificial-Intelligence-and-Deep-Learning-Framework
